@@ -2,7 +2,7 @@
 
 Beginner-friendly Python examples maintained by **WebPrims** for students who want to learn by writing and running real code.
 
-This repository starts with the basics and gradually moves into practical concepts such as conditions, loops, functions, collections, file handling, exceptions, and object-oriented programming.
+This repository starts with the basics and gradually moves into practical concepts such as conditions, loops, functions, collections, file handling, exceptions, object-oriented programming, and small real-world exercises.
 
 ## What you'll learn
 
@@ -31,6 +31,15 @@ python-beginner-examples/
 └── exercises/
 ```
 
+## Practice exercises
+
+The `exercises` folder currently includes:
+
+- Number guessing game
+- Simple calculator
+- Word counter
+- Expense tracker with categories and totals
+
 ## How to run an example
 
 Make sure Python 3 is installed.
@@ -50,6 +59,12 @@ Run any example:
 
 ```bash
 python 01-basics/hello_world.py
+```
+
+Run a practice project:
+
+```bash
+python exercises/04_expense_tracker.py
 ```
 
 ## Learning approach
